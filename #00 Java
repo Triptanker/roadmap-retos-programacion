@@ -1,0 +1,26 @@
+public class Triptanker {
+    public static void main(String[] args) {
+    
+  
+      
+          //www.java.com/es/
+  
+          /*
+            www.java.com/es/
+           */
+
+           
+          int Mouredev=2;                 //integer Su valor mínimo es -2,147,483,648 y el máximo 2,147,483,647
+          final double alvaro=9.6d;       //double CONSTANTE El tipo de dato double es un dato en coma flotante
+          long largo=56;                  //long Su valor mínimo es -9,223,372,036,854,775,808 y el máximo 9,223,372,036,854,775,807
+          byte x= 9;                      //byte Su valor mínimo es -128 y el máximo 127
+          short y=6;                      //short Su valor mínimo es -32,768 y el máximo 32,767
+          float z= 0.9f;                  //float El tipo de dato float es un dato en coma flotante
+          char e='t';                     //char El tipo de dato char es un solo carácter Unicode de 16 bits
+          String s= "Hola";               //String Una variable de cadena contiene una colección de caracteres rodeados por comillas dobles.
+          boolean pajaro=true;            //boolean El tipo de dato boolean solamente tiene dos valores posibles: true (verdadero) y false (falso)
+  
+  
+         System.out.println("¡Hola, Java!");
+      }
+  } 
